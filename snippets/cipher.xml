@@ -62,7 +62,7 @@
   <project path="system/core" name="android_system_core" remote="cipher" />
   <project path="system/logging" name="android_system_logging" remote="cipher" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="cipher" />
-  <project path="system/update_engine" name="android_system_update_engine" remote="cipher" />
+  <project path="system/update_engine" name="android_system_update_engine" remote="lineage" />
 
   <!-- vendor repos -->
   <project path="vendor/cipher" name="android_vendor_cipher" remote="cipher" />

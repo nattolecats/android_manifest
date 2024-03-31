@@ -9,6 +9,10 @@
            fetch="https://github.com/StatiXOS"
            revision="udc-qpr1" />
 
+  <remote  name="lineage"
+           fetch="https://github.com/LineageOS"
+           revision="lineage-21.0" />
+
   <remote  name="gitlab"
            fetch="https://gitlab.com/" />
 
